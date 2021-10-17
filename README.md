@@ -13,3 +13,4 @@ The purpose of this analysis was to determine to what extent acedemic dishonesty
   - Scores by school type increased
 
 ## Summary
+In summary, when we omitt the the Thomas High School 9th grade data, we the overall passing % for reading increase, the overall passing % for math increase, the overall passing % for both increases, and Thomas High School becomes one of the higher scoring schools.
